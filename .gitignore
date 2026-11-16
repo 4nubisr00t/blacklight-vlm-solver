@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+secrets.json
+captcha_debug/
+captcha_probe.jsonl*
+*.log
+.venv/
+venv/
+.DS_Store
